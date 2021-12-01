@@ -1,0 +1,5 @@
+code: sales-charts
+description: App to display sales made by My Company with charts. Sample app for the CodeMotion live talk.
+components:
+  widgets:
+    - ui/widgets/charts/bar-chart/bar-chart-descriptor.yaml
